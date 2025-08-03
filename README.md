@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Radheshaympatil
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Azure DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach- radheshyam9096@gmail.com
+- Hi, I’m @Radheshaympatil
+- I’m interested in DevOps
+- I’m currently learning Azure DevOps
+- I’m looking to collaborate on ...
+- reach- radheshyam9096@gmail.com
 
 <!---
 Radheshaympatil/Radheshaympatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
