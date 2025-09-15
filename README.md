@@ -1,4 +1,4 @@
-- Hi, I’m @Radheshaympatil
+- Hi, I’m @Radheshyampatil
 - I’m interested in DevOps
 - I’m currently learning Azure DevOps
 - I’m looking to collaborate on ...
