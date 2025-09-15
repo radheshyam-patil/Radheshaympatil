@@ -5,6 +5,6 @@
 - reach- radheshyam9096@gmail.com
 
 <!---
-Radheshaympatil/Radheshaympatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Radheshaympatil/radheshyampatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
