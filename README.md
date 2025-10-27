@@ -2,8 +2,8 @@
 
 **DevOps Engineer | Cloud Infrastructure Specialist**
 
-📧 radheshyam9096@gmail.com | 📱 +91-8600059044 | 📍 Pune, India  
-🔗 [LinkedIn](https://linkedin.com/in/theradheshyampatil) | 💻 [GitHub](https://github.com/radheshyampatil)
+📧 radheshyam9096@gmail.com  | 📍 Pune, India  
+🔗 [LinkedIn](https://linkedin.com/in/theradheshyampatil) | 💻 [GitHub](https://github.com/radheshyam-patil)
 
 ---
 
@@ -94,10 +94,10 @@ Results-driven **DevOps Engineer** with **3.5+ years** of hands-on experience au
 
 ## 🏆 Achievements & Awards
 
-- **Xcelerate Warrior Certificate** | TCS Recognition (2023)  
+- **Xcelerate Warrior Certificate**  
   *Recognized for exceptional performance in innovative DevOps solutions*
 
-- **Service & Commitment Award** | TCS Recognition (2024)  
+- **Service & Commitment Award**   
   *Awarded for consistent delivery excellence and client success*
 
 ---
@@ -143,7 +143,7 @@ Results-driven **DevOps Engineer** with **3.5+ years** of hands-on experience au
 ## 🔗 Links & Resources
 
 - 📄 **Resume:** Available upon request
-- 🐙 **GitHub:** [github.com/radheshyampatil](https://github.com/radheshyampatil)
+- 🐙 **GitHub:** [github.com/radheshyampatil](https://github.com/radheshyam-patil)
 - 💼 **LinkedIn:** [linkedin.com/in/theradheshyampatil](https://linkedin.com/in/theradheshyampatil)
 - 📧 **Email:** radheshyam9096@gmail.com
 
